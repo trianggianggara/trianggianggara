@@ -4,7 +4,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Go, Java
 - 💬 &nbsp;Ask me about anything related to Go/Java
-- ⚡ &nbsp;Fun fact: I :heart: :cat:s
+- ⚡ &nbsp;Fun fact: I :heart: :cat:
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
