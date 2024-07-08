@@ -17,12 +17,3 @@ This is the place where I opensource stuff and break things :rofl:
 ### ✨&nbsp; About Me
 Dedicated backend engineer with 2 years of experience. Experience in website architecture design and web API design. have good communication skills, problem solving skills, can work collaboratively and the ability to finish projects within a tight timeframe.
 
-```
-
-██████╗░░█████╗░██████╗░░█████╗░████████╗░░░░░██╗░█████╗░██╗░░██╗░█████╗░████████╗
-██╔══██╗██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝░░░░░██║██╔══██╗██║░░██║██╔══██╗╚══██╔══╝
-██████╔╝██║░░██║██████╦╝██║░░██║░░░██║░░░░░░░░██║███████║███████║███████║░░░██║░░░
-██╔══██╗██║░░██║██╔══██╗██║░░██║░░░██║░░░██╗░░██║██╔══██║██╔══██║██╔══██║░░░██║░░░
-██║░░██║╚█████╔╝██████╦╝╚█████╔╝░░░██║░░░╚█████╔╝██║░░██║██║░░██║██║░░██║░░░██║░░░
-╚═╝░░╚═╝░╚════╝░╚═════╝░░╚════╝░░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░     
-```
